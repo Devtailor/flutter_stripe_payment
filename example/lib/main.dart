@@ -268,7 +268,7 @@ class _MyAppState extends State<MyApp> {
               style: TextStyle(fontFamily: "Monospace"),
             ),
             Divider(),
-            Text('Current error: $_error'),
+            Text('Current error: $_error.'),
           ],
         ),
       ),
